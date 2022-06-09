@@ -3,12 +3,7 @@ return`━━֍  〔 🪀 _*BY ${botName}*_ 🪀〕
 ──────────────────
 ◈ _Nama Owner : ${NamaOwner}_
 ◈ _Nomor Owner : ${NomorOwner}_
-️ YT : Zeil Botz JANGAN LUPA SUBSCRIBE ️
-️ NOMOR : 081376900646 HEMAT JAN LUPA️S
-〽️ IG : ( PERBAIKAN !! ) JAN LUPA FOLLOW 〽️
-〽️ TIK TOK : ( PERBAIKAN !! ) JAN LUPA FOLLOW 〽️
-
-
+️ 
 
 *──────" INFORMASI "──────*
 ╔══════════════════╗
@@ -327,7 +322,7 @@ return`━━֍  〔 🪀 _*BY ${botName}*_ 🪀〕
 ║│${prefix}herolist「 Mobile Legends 」
 ║│${prefix}googlesearch 「 Terserah 」
 ╠══════════════════════╡
-║     By *ZeilBotz*
+║     By *YAHYA17*
 ╚══════════════════════╡`
 }
 exports.menunya = menunya
